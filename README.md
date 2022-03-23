@@ -1,2 +1,2 @@
 # Pong-Game
-Pong game that I'm working on
+Files for my work in progress Pong game for practice
